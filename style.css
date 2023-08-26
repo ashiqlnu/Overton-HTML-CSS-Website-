@@ -1,0 +1,141 @@
+body {
+    font-family: tahoma sans-serif;
+}
+.navbar {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.navbar .navbar-brand img {
+    width: 118px;
+    height: 25px;
+    margin-bottom: 5px;
+}
+.navbar-nav li a {
+    color: #FFFFFF;
+}
+.navbar-nav li:hover a {
+    color: rgba(99, 110, 114, 1.0)
+}
+.btn-outline-success {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+.carousel-caption {
+    padding-bottom: 25px;
+}
+.carousel-caption h2 {
+    font-size: 100px;
+}
+.learnMore {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 10px 25px;
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+}
+.learnMore:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+    text-decoration: none;
+}
+.services {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.services-area {
+    padding: 100px 0;
+}
+.services-h2 {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 5px;
+    font-size: 40px;
+}
+.second-row {
+    padding-top: 80px;
+}
+.col-sm-3 h3 {
+    font-size: 25px;
+}
+.col-sm-3 a img {
+    margin-bottom: 20px;
+}
+.col-sm-3 .icon-image {
+    border-bottom: 2px solid transparent;
+    padding-bottom: 5px;
+    transition: .5s;
+}
+.col-sm-3 .icon-image:hover {
+    border-bottom: 2px solid #FFFFFF;
+}
+.col-sm-3 .header-3 {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.col-sm-3 .header-3:hover {
+    text-decoration: none;
+    color: rgba(99, 110, 114, 1.0);
+}
+.whatWeDo {
+    background-color: #FFFFFF;
+    color: #000000;
+    overflow: hidden;
+}
+.learnMore1 {
+    text-decoration: none;
+    color: #000000;
+    padding: 10px 25px;
+    border: 1px solid #000000;
+    border-radius: 2px;
+}
+.learnMore1:hover {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.text-area {
+    padding: 120px 0;
+}
+.text-area h2 {
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+.text-area p {
+    padding-bottom: 15px;
+}
+.text-area ul {
+    padding-bottom: 25px;
+}
+.ourWork {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.col-sm-6 {
+    overflow: hidden;
+    min-height: 600px;
+    width: 50%;
+}
+.col-sm-6 img {
+    width: 100%;
+    height: 600px;
+}
+.footer {
+    background-color: #0C0C0C;
+}
+.footer-area {
+    padding: 50px 0;
+    color: #FFFFFF;
+}
+.footer-area a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.footer-area a:hover {
+    color: rgba(99, 110, 114, 1.0);
+    text-decoration: none;
+}
+.footer-area a i {
+    margin-right: 15px;
+}
+.contact1 {
+    margin-top: 20px;
+}
